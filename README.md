@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tristanhuyanhngo
+- 👋 Hi, I’m Huy Anh (Tristan)
 - 👀 I’m interested in Web Development and Big Data
 - 🌱 I’m currently learning Python, Django and Hadoop
 - 💞️ I’m looking to collaborate on ...
