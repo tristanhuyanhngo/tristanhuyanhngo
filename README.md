@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Huy Anh (Tristan)
+- 👋 Hi, I’m (Tristan)
 - 👀 I’m interested in Web Development and Big Data. I want to be a Full-Stack Developer.
 - 🌱 I’m currently learning JavaScript, NodeJS, ExpressJS - ReactJS and Big Data with Hadoop | Spark
 - 📫 How to reach me: tristanhuyanhngo@gmail.com
