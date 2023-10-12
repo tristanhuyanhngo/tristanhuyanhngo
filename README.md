@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tristan
 - 👀 I’m interested in Web Development. I want to be a Full-Stack Developer.
-- 🌱 I’m currently learning JavaScript, NodeJS, ReactJS
+- 🌱 I’m currently learning Java, ReactJS
 - 📫 How to reach me: huyanhngo@gmail.com
 
 <!-- - 💞️ I’m looking to collaborate on ... -->
